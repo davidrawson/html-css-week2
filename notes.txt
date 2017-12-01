@@ -1,0 +1,24 @@
+Everything needs to be wrapped in a parent when using flex.
+
+So, our project:
+
+Name
+Contact details
+A statement
+Work experience
+Skills and hobbies
+List of projects:
+- links to github
+- description
+- screenshots
+
+Homepage is an outdated concept - you want to be where is useful.
+
+Available content should be making your design decisions
+- 3 projects can go on one page, 17 may need 2 pages.
+
+Always need to get to anywhere - prominent navigation.
+
+Google color picker!!
+
+margins go top, right, bottom, left
